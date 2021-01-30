@@ -1,0 +1,12 @@
+body{
+    background-image:url("colur.gif") ;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#myCanvas{
+    margin-top: 30px;
+    border-style: ridge;
+    border-width: 10px;
+}
